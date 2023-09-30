@@ -13,15 +13,20 @@
 
 ## Tecnologías
 
-<button style="background-color:#f0db4f; color:#333; padding: 5px 10px; border: none; border-radius: 5px; text-decoration: none;">
-    JavaScript (JS)
-</button>
+* JavaScript
+* TypeScript
+* Python
+* Java
+* Spring Framework
+* React JS & Next JS
+* OWCS
+* Node.JS
+
+y algunas más que no alcanzo a recordar.
+
+## Contacto
 
 
-
-
-
-
-Puedes encontrarme en  [Linkedin](https://www.linkedin.com/in/víctor-manuel-ordiales-garcía-777196206/) para conectar conmigo o seguir mis actulizaciones. 
+Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/víctor-manuel-ordiales-garcía-777196206/) y [Web Personal](https://samuraior.dev/) para conectar conmigo o seguir mis actulizaciones. 
 ¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto interesante!
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones.
