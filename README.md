@@ -13,9 +13,9 @@
 
 ## Tecnologías
 
-- <button  style="background-color:#f0db4f; color:#333; padding: 5px 10px; border: none; border-radius: 5px; text-decoration: none;">
-  <i class="fab fa-js"></i> JavaScript (JS)
-  </button>
+<button style="background-color:#f0db4f; color:#333; padding: 5px 10px; border: none; border-radius: 5px; text-decoration: none;">
+    JavaScript (JS)
+</button>
 
 
 
