@@ -13,33 +13,12 @@
 
 ## Tecnologías
 
-- <a href="#" style="background-color:#f0db4f; color:#333; padding: 5px 10px; border: none; border-radius: 5px; text-decoration: none;">
+- <button  style="background-color:#f0db4f; color:#333; padding: 5px 10px; border: none; border-radius: 5px; text-decoration: none;">
   <i class="fab fa-js"></i> JavaScript (JS)
-  </a>
+  </button>
 
-- <a href="#" style="background-color:#007acc; color:#fff; padding: 5px 10px; border: none; border-radius: 5px; text-decoration: none;">
-  <i class="fab fa-react"></i> React
-  </a>
 
-- <a href="#" style="background-color:#007396; color:#fff; padding: 5px 10px; border: none; border-radius: 5px; text-decoration: none;">
-  <i class="fab fa-java"></i> Java
-  </a>
 
-- <a href="#" style="background-color:#f80000; color:#fff; padding: 5px 10px; border: none; border-radius: 5px; text-decoration: none;">
-  <i class="fas fa-database"></i> Oracle WebCenter Sites (OWCS)
-  </a>
-
-- <a href="#" style="background-color:#6db33f; color:#fff; padding: 5px 10px; border: none; border-radius: 5px; text-decoration: none;">
-  <i class="fab fa-spring"></i> Spring Framework
-  </a>
-
-- <a href="#" style="background-color:#61dafb; color:#333; padding: 5px 10px; border: none; border-radius: 5px; text-decoration: none;">
-  <i class="fab fa-react"></i> React
-  </a>
-
-- <a href="#" style="background-color:#68a063; color:#fff; padding: 5px 10px; border: none; border-radius: 5px; text-decoration: none;">
-  <i class="fab fa-node"></i> Node.js (Node)
-  </a>
 
 
 
